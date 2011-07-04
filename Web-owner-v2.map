@@ -1,0 +1,84 @@
+; map: Web-owner-v2.map
+; map made with the map maker
+; yura.net Risk 1.1.0.1
+
+[files]
+pic Web-owner-v2_pic.png
+map Web-owner-v2_map.gif
+crd Web-owner-v2.cards
+
+[continents]
+Provider 2 white
+Social-Ost 7 #ffcc00
+Social-west 7 #cc0033
+Information 5 #000066
+Shop 3 #990099
+Entertainment 4 #006600
+
+[countries]
+1 Kicker 4 430 295
+2 1u1 1 531 348
+3 web 1 651 306
+4 t-com 1 595 346
+5 Youtube 6 85 147
+6 Myspace 2 486 101
+7 Xing 2 613 122
+8 Apple 5 211 354
+9 Blogger 2 638 55
+10 Google 2 561 90
+11 Facebook 2 576 55
+12 Wer-kennt-mich 2 500 59
+13 Windows-live 3 299 68
+14 StudiVZ 3 404 60
+15 MeinVZ 3 332 121
+16 Wikipedia 4 336 179
+17 Twitter 4 406 220
+18 Chip 4 394 262
+19 DB 1 545 205
+20 Heise 5 368 302
+21 Mozilla 2 528 162
+22 Leo 6 237 19
+23 Wordpress 3 399 108
+24 Yahoo 1 588 315
+25 Kino.to 6 73 63
+26 Immobilien 5 234 257
+27 Gutefrage 4 415 188
+28 Ebay 5 148 271
+29 Gmx 1 616 270
+30 Amazon 5 268 298
+31 Spiegel-online 6 209 112
+32 Bild 6 125 68
+
+[borders]
+1 20 18
+2 4 24
+3 29 4 24
+4 2 3
+5 26 32 31
+6 23 12 10 21
+7 10 21 9
+8 30 28
+9 10 25 7 11
+10 11 6 7 9
+11 12 10 9
+12 14 6 11
+13 15 14 22
+14 23 13 12
+15 16 13 23
+16 17 27 15
+17 18 27 16
+18 1 20 17
+19 21 29
+20 1 18 30
+21 27 6 7 19
+22 32 31 13
+23 27 15 6 14
+24 29 2 3
+25 32 9
+26 30 28 5
+27 17 21 23 16
+28 30 26 8
+29 19 3 24
+30 20 26 8 28
+31 5 32 22
+32 5 25 22 31
